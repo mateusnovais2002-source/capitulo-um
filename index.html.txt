@@ -1,0 +1,163 @@
+<<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capítulo 1: Dois meses depois</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    background: url('b84d9d202ab2511372f36787e1b5cdb7.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #f5f5f5;
+}
+
+.overlay {
+    background: rgba(10, 10, 10, 0.75);
+    min-height: 100vh;
+    padding: 60px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    max-width: 760px;
+    width: 100%;
+    backdrop-filter: blur(6px);
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-style: italic;
+    opacity: 0.8;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.date {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    opacity: 0.8;
+    margin-bottom: 30px;
+}
+
+p {
+    line-height: 1.9;
+    font-size: 17px;
+    margin-bottom: 24px;
+    font-weight: 300;
+}
+
+strong {
+    font-weight: 500;
+}
+
+em {
+    font-style: italic;
+    opacity: 0.9;
+}
+
+.music {
+    margin: 30px 0 50px 0;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background: rgba(255,255,255,0.2);
+    margin: 60px 0;
+}
+
+.signature {
+    margin-top: 40px;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+
+.footer-date {
+    margin-top: 10px;
+    opacity: 0.7;
+}
+</style>
+</head>
+
+<body>
+
+<div class="overlay">
+<div class="container">
+
+<h1>Capítulo 1: Dois meses depois</h1>
+
+
+<div class="subtitle">Antes de continuar…</div>
+
+<h2>Aperta o play</h2>
+
+<div class="music">
+<iframe style="border-radius:12px" 
+src="https://open.spotify.com/embed/track/0BCPKOYdS2jbQ8iyB56Zns?utm_source=generator" 
+width="100%" height="152" frameBorder="0" 
+allowfullscreen="" 
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+</iframe>
+</div>
+
+<div class="date">04.03.2026</div>
+
+<h2>Dois meses desde aquela <strong>mensagem aleatória.</strong></h2>
+
+<p>A verdade é que nosso contato “pra valer” começou de um jeito meio improvável, com um simples <strong>“cintura de deusa grega”</strong>. Poderia ter sido só mais uma resposta qualquer. Mas você respondeu. E a conversa desenrolou.</p>
+
+<p>Nas suas férias vieram aqueles áudios longos, quase episódios completos. Teve um de quase seis minutos que até hoje eu lembro. Era engraçado como você conseguia transformar qualquer assunto em algo interessante só pelo jeito de contar. Eu gostava de ouvir. E ainda hoje, quando chega uma notificação sua no celular, é automático. Eu olho. E quase sempre vem um sorriso junto. Não é nada exagerado. É só aquela sensação boa que aparece sem pedir licença.</p>
+
+<p>Depois a rotina voltou com tudo. Faculdade, trabalho, compromissos. A frequência diminuiu, o tempo ficou mais apertado. E eu entendo. Você sempre foi intensa com as próprias metas. Bolsa integral na FAAP, primeiro lugar recente na iniciação científica, mil planos acontecendo ao mesmo tempo. Nada disso combina com alguém que faz as coisas pela metade.</p>
+
+<p>Entre uma conversa e outra, você compartilha histórias da época em que dançava profissionalmente e dos países que conheceu. Pra mim isso sempre parece coisa de filme. E ao mesmo tempo você fala com naturalidade, como se fosse só mais um capítulo seu. Eu gosto de conhecer esses pedaços da sua história.</p>
+
+<p>Também lembro das vezes que você perguntava do meu pai. Você sempre demonstrou um cuidado sincero quando falava dele. Tenho certeza de que você teria gostado de conhecê-lo. Em uma das poucas conversas mais abertas que tive com ele sobre a vida, ele chegou a perguntar de você. Considerando tudo que já te contei sobre nossa relação, que era próxima do nosso jeito, acho que ele também teria gostado de te conhecer.</p>
+
+<p>Teve o nosso encontro na Paulista. <strong>Nosso primeiro date.</strong> Simples, leve, sem esforço para a conversa fluir. A sensação fora da tela era igual à de dentro dela. E dois meses depois, ainda estamos aqui. Talvez com menos tempo e menos áudios longos, mas com a mesma curiosidade tranquila de continuar entendendo quem é essa versão autodidata que já rodou o mundo dançando, passou em primeiro lugar na iniciação científica e ainda diz que não sabe correr.</p>
+
+<p>E sobre essa sua habilidade de aprender tudo sozinha… eu admiro. Mas no violão eu não deixo rs. Essa parte eu faço questão de ensinar pessoalmente. Nem que seja só para garantir que você não pule direto para as músicas difíceis antes de aprender o básico.</p>
+
+<p>Ah, e só para constar, a caixa de bombom da Cacau Show continua aqui. Guardada. Oficialmente reservada para você. Então, tecnicamente, temos um compromisso pendente. Estou apenas sendo responsável e mantendo o estoque intacto até o próximo encontro.</p>
+
+<p>Não precisa ter pressa. Nem definição agora. Mas é difícil não perceber quando algo <strong>tem potencial.</strong></p>
+
+<p>E quanto ao ritmo, você entende melhor do que ninguém. Na dança, às vezes o segredo não é acelerar o passo. É sentir a música, perceber o tempo certo e deixar o movimento acontecer. Por enquanto, <strong>o ritmo está bom assim.</strong></p>
+
+<hr>
+
+<p>Obrigado por tudo que já foi até aqui.</p>
+
+<p><em>Se o próximo capítulo vier, eu estou pronto para ler.</em></p>
+
+<div class="signature">
+<p>Atenciosamente,</p>
+<p>Mateus Novais</p>
+<div class="footer-date">04.03.2026</div>
+</div>
+
+</div>
+</div>
+
+</body>
+</html>
